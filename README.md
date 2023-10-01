@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wizyx, my real name is Kirill and Im 16 years of age
+- 👋 Hi, I’m Wizyx, my real name is Kirill and Im 18 years of age
 - 👀 I have been learning how to code since I was 12 years old and my goal is to become a developer
 - 🌱 I’m currently learning python and flask framework
 - 💞️ Feel free to DM me if you have the same goals as me
